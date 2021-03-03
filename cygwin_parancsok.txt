@@ -1,0 +1,20 @@
+start / cmd
+cd ..			(feljebb vissza a mappából)
+cd "mappanév"		(belevissz a mappába)
+cls			(ablak törlése, könyvtár sor marad)
+mkdir "mappanév"	(mappa létrehozása)
+dir			(megmutatja a mappa tartalmát)
+git init		(helyi könyvtár létrehozása, GIT repository)
+git status		(mappa könyvtárának az infója)
+touch test.txt		(file létrehozás)
+ls			(kilistázza  amappa tartalmát, mint a dir)
+git add			(hozzáadás)
+git commit -m ""	("közé, hogy mi a commit leírása")	
+git add '*.txt'		(egyszerre több file-t adhatunk hozzá, nem egyesével)
+git log			(kilistáza, hogy milyen commitok voltak)
+git remote add origin	(távoli elérés módosítása, és ez után meg kell adni a https/..elérését)
+git push -u origin master	(ezzel lehet fel commit-olni, a -u megadásával rögzíti, így mindig oda fogja feltenni)
+git config --global 	(állítunk, módosítunk valamit)
+git push origin master
+git pull origin master
+git pull origin master --allow-unrelated-histories
