@@ -1,1 +1,3 @@
 Ezt a git vebes felületen írom bele, és pull-ozom, hogy a gépen meglássam, hogy tényleg leszedi e.
+
+Nagyon jó! Tetszik. sikerült, na most ezt meg vissza.
