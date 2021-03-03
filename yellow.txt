@@ -1,0 +1,1 @@
+Ezt a git vebes felületen írom bele, és pull-ozom, hogy a gépen meglássam, hogy tényleg leszedi e.
